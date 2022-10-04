@@ -1,0 +1,4 @@
+[27-Jan-2020 13:11:18 UTC] PHP Warning:  include(include/head.php): failed to open stream: No such file or directory in /home/eco/public_html/colorinspiration/index.php on line 5
+[27-Jan-2020 13:11:18 UTC] PHP Warning:  include(): Failed opening 'include/head.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/eco/public_html/colorinspiration/index.php on line 5
+[27-Jan-2020 13:11:18 UTC] PHP Warning:  include(include/header.php): failed to open stream: No such file or directory in /home/eco/public_html/colorinspiration/index.php on line 16
+[27-Jan-2020 13:11:18 UTC] PHP Warning:  include(): Failed opening 'include/header.php' for inclusion (include_path='.:/opt/cpanel/ea-php55/root/usr/share/pear') in /home/eco/public_html/colorinspiration/index.php on line 16
